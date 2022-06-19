@@ -1,0 +1,9 @@
+Implement .getSimplified()
+
+Add the "dig" task
+
+Add the "build" task
+
+Deal with entities trying to move into the same place
+
+Counter exploits

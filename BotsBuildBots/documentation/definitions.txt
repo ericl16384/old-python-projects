@@ -1,0 +1,1 @@
+entity = anything that has tick(), and therefore contains an AI

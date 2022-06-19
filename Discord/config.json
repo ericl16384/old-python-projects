@@ -1,0 +1,6 @@
+{
+    "prefix": "!",
+    "defaultFindMode": "start",
+    "replyToBots": true,
+    "matchCase": true
+}
